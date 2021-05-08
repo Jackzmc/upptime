@@ -4,9 +4,9 @@
     "url": "http://mc.jackz.me",
     "icon": "https://favicons.githubusercontent.com/mc.jackz.me",
     "slug": "hs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 563,
     "timeMonth": 461,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-08": 0
+    }
   },
   {
     "name": "VPS1",
