@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/mc.jackz.me",
     "slug": "hs",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "98.29%",
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 495,
-    "timeDay": 713,
-    "timeWeek": 625,
-    "timeMonth": 495,
-    "timeYear": 495,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 487,
+    "timeDay": 380,
+    "timeWeek": 617,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2021-05-08": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 199,
+    "time": 96,
+    "timeDay": 55,
     "timeWeek": 98,
-    "timeMonth": 99,
-    "timeYear": 99,
+    "timeMonth": 96,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 141,
-    "timeWeek": 107,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "time": 109,
+    "timeDay": 89,
+    "timeWeek": 106,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   }
 ]
