@@ -4,7 +4,7 @@
     "url": "http://mc.jackz.me",
     "icon": "https://favicons.githubusercontent.com/mc.jackz.me",
     "slug": "hs-a-us-central-servers-jackz-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 300,
     "timeMonth": 310,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "VPS1 - a.ca-east.servers.jackz.me",
