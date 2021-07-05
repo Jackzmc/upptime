@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "95.05%",
     "uptimeYear": "95.05%",
-    "time": 428,
-    "timeDay": 360,
-    "timeWeek": 368,
-    "timeMonth": 431,
-    "timeYear": 428,
+    "time": 425,
+    "timeDay": 344,
+    "timeWeek": 364,
+    "timeMonth": 428,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2021-07-01": 24,
       "2021-06-25": 1079,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 174,
-    "timeWeek": 97,
-    "timeMonth": 108,
-    "timeYear": 106,
+    "time": 105,
+    "timeDay": 113,
+    "timeWeek": 91,
+    "timeMonth": 106,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 128,
-    "timeWeek": 119,
+    "timeDay": 113,
+    "timeWeek": 116,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -65,38 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/a.us-east.servers.jackz.me",
     "slug": "us-east-a-a-us-east-servers-jackz-me",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 74,
     "timeDay": 148,
     "timeWeek": 67,
     "timeMonth": 75,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2021-07-05": 1
-    }
-  },
-  {
-    "name": "US East B - b.us-east.servers.jackz.me",
-    "url": "http://b.us-east.servers.jackz.me",
-    "icon": "https://favicons.githubusercontent.com/b.us-east.servers.jackz.me",
-    "slug": "us-east-b-b-us-east-servers-jackz-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 66,
-    "timeDay": 153,
-    "timeWeek": 60,
-    "timeMonth": 64,
-    "timeYear": 66,
-    "dailyMinutesDown": {
-      "2021-07-05": 0
+      "2021-07-05": 11
     }
   }
 ]
