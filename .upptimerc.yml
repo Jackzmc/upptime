@@ -11,8 +11,6 @@ sites:
     url: http://lgs.jackz.me
   - name: US East A - a.us-east.servers.jackz.me
     url: http://a.us-east.servers.jackz.me
-  - name: US East B - b.us-east.servers.jackz.me
-    url: http://b.us-east.servers.jackz.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
