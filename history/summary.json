@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/mc.jackz.me",
     "slug": "hs-a-us-central-servers-jackz-me",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.49%",
     "time": 636,
     "timeDay": 433,
     "timeWeek": 453,
@@ -32,7 +32,7 @@
     "url": "vps1.jackz.me",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vps-1-a-ca-east-servers-jackz-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -43,7 +43,9 @@
     "timeWeek": 126,
     "timeMonth": 108,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 0
+    }
   },
   {
     "name": "LGS - US Central B - b.us-central.servers.jackz.me",
@@ -71,11 +73,11 @@
     "icon": "https://favicons.githubusercontent.com/a.us-east.servers.jackz.me",
     "slug": "us-east-a-a-us-east-servers-jackz-me",
     "status": "up",
-    "uptime": "66.16%",
+    "uptime": "66.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.16%",
+    "uptimeYear": "66.24%",
     "time": 71,
     "timeDay": 149,
     "timeWeek": 96,
