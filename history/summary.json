@@ -32,19 +32,19 @@
     "url": "vps1.jackz.me",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vps-1-a-ca-east-servers-jackz-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.97%",
     "time": 109,
-    "timeDay": 196,
-    "timeWeek": 126,
-    "timeMonth": 108,
+    "timeDay": 135,
+    "timeWeek": 119,
+    "timeMonth": 107,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 52
     }
   },
   {
