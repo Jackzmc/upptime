@@ -7,11 +7,11 @@ sites:
     url: http://mc.jackz.me
   - name: US Central 3-c
     url: http://c.us-central.servers.jackz.me
-  - name: VPS1 - a.ca-east.servers.jackz.me
-    url: vps1.jackz.me
+  - name: VPS1 - a.ca-east.servers.jackz.me  (Legacy)
+    url: vps.jackz.me
   - name: LGS - US Central B - b.us-central.servers.jackz.me (Legacy)
     url: http://lgs.jackz.me
-  - name: US East A - a.us-east.servers.jackz.me (Legacy)
+  - name: US East A - a.us-east.servers.jackz.me
     url: http://a.us-east.servers.jackz.me
 
 status-website:
