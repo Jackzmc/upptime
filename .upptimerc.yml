@@ -5,11 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: HS - a.us-central.servers.jackz.me
     url: http://mc.jackz.me
+  - name: US Central 3-c
+    url: http://c.us-central.servers.jackz.me
   - name: VPS1 - a.ca-east.servers.jackz.me
     url: vps1.jackz.me
-  - name: LGS - US Central B - b.us-central.servers.jackz.me
+  - name: LGS - US Central B - b.us-central.servers.jackz.me (Legacy)
     url: http://lgs.jackz.me
-  - name: US East A - a.us-east.servers.jackz.me
+  - name: US East A - a.us-east.servers.jackz.me (Legacy)
     url: http://a.us-east.servers.jackz.me
 
 status-website:
