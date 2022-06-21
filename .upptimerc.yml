@@ -3,15 +3,15 @@ owner: jackzmc # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: HS - a.us-central.servers.jackz.me
-    url: http://mc.jackz.me
-  - name: US Central 3-c
+  - name: US Central A (HS)
+    url: http://a.us-central.servers.jackz.me
+  - name: US Central C
     url: http://c.us-central.servers.jackz.me
-  - name: VPS1 - a.ca-east.servers.jackz.me  (Legacy)
-    url: vps.jackz.me
-  - name: LGS - US Central B - b.us-central.servers.jackz.me (Legacy)
+  - name: CA East A (VPS) (Legacy)
+    url: a.ca-east.servers.jackz.me
+  - name: US Central B (Legacy)
     url: http://lgs.jackz.me
-  - name: US East A - a.us-east.servers.jackz.me
+  - name: US East A
     url: http://a.us-east.servers.jackz.me
 
 status-website:
