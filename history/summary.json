@@ -22,7 +22,7 @@
     "url": "http://c.us-central.servers.jackz.me",
     "icon": "https://favicons.githubusercontent.com/c.us-central.servers.jackz.me",
     "slug": "us-central-c",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 170,
     "timeMonth": 170,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-24": 0
+    }
   },
   {
     "name": "CA East A (VPS) (Legacy)",
