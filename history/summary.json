@@ -23,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/c.us-central.servers.jackz.me",
     "slug": "us-central-c",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
+    "uptime": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 158,
     "timeDay": 141,
     "timeWeek": 160,
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-06-29": 10,
       "2022-06-25": 21,
       "2022-06-24": 51
     }
