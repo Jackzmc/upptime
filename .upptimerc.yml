@@ -7,10 +7,6 @@ sites:
     url: http://a.us-central.servers.jackz.me
   - name: US Central C
     url: http://c.us-central.servers.jackz.me
-  - name: CA East A (VPS) (Legacy)
-    url: a.ca-east.servers.jackz.me
-  - name: US Central B (Legacy)
-    url: http://lgs.jackz.me
   - name: US East A
     url: http://a.us-east.servers.jackz.me
 
