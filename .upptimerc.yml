@@ -7,6 +7,7 @@ sites:
     url: http://a.us-central.servers.jackz.me
   - name: US Central C
     url: http://c.us-central.servers.jackz.me
+    maxResponseTime: 45000
   - name: US East A
     url: http://a.us-east.servers.jackz.me
 
@@ -24,6 +25,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "upptime@koj.co"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
