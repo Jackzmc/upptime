@@ -60,5 +60,5 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
-          user_name: "Upptime Bot"
-          user_email: "upptime@koj.co"
+          user_name: "UptimeBot"
+          user_email: "me@jackz.me"
