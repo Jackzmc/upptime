@@ -4,7 +4,7 @@
     "url": "http://a.us-central.servers.jackz.me",
     "icon": "https://favicons.githubusercontent.com/a.us-central.servers.jackz.me",
     "slug": "us-central-a-hs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 338,
     "timeMonth": 343,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-02": 0
+    }
   },
   {
     "name": "US Central C",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/c.us-central.servers.jackz.me",
     "slug": "us-central-c",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "97.95%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
     "time": 163,
     "timeDay": 163,
     "timeWeek": 163,
