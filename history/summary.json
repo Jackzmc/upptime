@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 787,
-    "timeDay": 205,
-    "timeWeek": 683,
-    "timeMonth": 825,
-    "timeYear": 787,
+    "time": 795,
+    "timeDay": 1088,
+    "timeWeek": 796,
+    "timeMonth": 846,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2022-07-02": 16
     }
@@ -25,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/c.us-central.servers.jackz.me",
     "slug": "us-central-c",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.99%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.02%",
     "time": 169,
-    "timeDay": 177,
-    "timeWeek": 185,
+    "timeDay": 139,
+    "timeWeek": 183,
     "timeMonth": 169,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -59,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 22,
-    "timeWeek": 78,
-    "timeMonth": 108,
-    "timeYear": 104,
+    "time": 110,
+    "timeDay": 310,
+    "timeWeek": 108,
+    "timeMonth": 112,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   }
 ]
