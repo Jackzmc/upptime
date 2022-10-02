@@ -2,11 +2,11 @@
   {
     "name": "US Central A (HS)",
     "url": "http://a.us-central.servers.jackz.me",
-    "icon": "https://favicons.githubusercontent.com/a.us-central.servers.jackz.me",
+    "icon": "https://icons.duckduckgo.com/ip3/a.us-central.servers.jackz.me.ico",
     "slug": "us-central-a-hs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.98%",
+    "uptimeDay": "94.97%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 1239,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2022-10-02": 0,
       "2022-10-01": 73,
       "2022-09-23": 39,
       "2022-09-21": 37,
@@ -26,7 +27,7 @@
   {
     "name": "US Central C",
     "url": "http://c.us-central.servers.jackz.me",
-    "icon": "https://favicons.githubusercontent.com/c.us-central.servers.jackz.me",
+    "icon": "https://icons.duckduckgo.com/ip3/c.us-central.servers.jackz.me.ico",
     "slug": "us-central-c",
     "status": "up",
     "uptime": "99.20%",
@@ -70,7 +71,7 @@
   {
     "name": "US East A",
     "url": "http://a.us-east.servers.jackz.me",
-    "icon": "https://favicons.githubusercontent.com/a.us-east.servers.jackz.me",
+    "icon": "https://icons.duckduckgo.com/ip3/a.us-east.servers.jackz.me.ico",
     "slug": "us-east-a",
     "status": "up",
     "uptime": "100.00%",
