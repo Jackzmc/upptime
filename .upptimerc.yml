@@ -27,8 +27,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 commitMessages:
-  commitAuthorName: "UptimeBot"
-  commitAuthorEmail: "me@jackz.me"
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "upptime@koj.co"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
