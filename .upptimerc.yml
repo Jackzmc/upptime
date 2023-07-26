@@ -10,6 +10,8 @@ sites:
     maxResponseTime: 45000
   - name: US East A
     url: http://a.us-east.servers.jackz.me
+  - name: US Central D
+    url: https://d.us-central.servers.jackz.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
