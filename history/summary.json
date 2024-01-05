@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/a.us-central.servers.jackz.me.ico",
     "slug": "us-central-a-hs",
     "status": "up",
-    "uptime": "93.77%",
+    "uptime": "93.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.79%",
-    "time": 688,
-    "timeDay": 262,
-    "timeWeek": 209,
-    "timeMonth": 233,
+    "time": 687,
+    "timeDay": 330,
+    "timeWeek": 231,
+    "timeMonth": 238,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2023-09-22": 116,
@@ -68,8 +68,7 @@
       "2023-01-20": 33,
       "2023-01-12": 25,
       "2023-01-11": 24,
-      "2023-01-06": 24,
-      "2023-01-05": 27
+      "2023-01-06": 24
     }
   },
   {
@@ -84,9 +83,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 187,
-    "timeDay": 282,
-    "timeWeek": 225,
-    "timeMonth": 201,
+    "timeDay": 296,
+    "timeWeek": 232,
+    "timeMonth": 205,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2023-12-14": 34,
