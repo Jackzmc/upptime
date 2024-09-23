@@ -4,7 +4,7 @@
     "url": "http://a.us-central.servers.jackz.me",
     "icon": "https://icons.duckduckgo.com/ip3/a.us-central.servers.jackz.me.ico",
     "slug": "us-central-a-hs",
-    "status": "up",
+    "status": "down",
     "uptime": "95.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 260,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2024-09-23": 0,
       "2024-09-12": 79,
       "2024-08-16": 437,
       "2024-08-09": 304,
