@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 252,
-    "timeDay": 184,
-    "timeWeek": 260,
-    "timeMonth": 241,
+    "timeDay": 242,
+    "timeWeek": 265,
+    "timeMonth": 243,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2024-09-23": 16,
@@ -30,27 +30,39 @@
     }
   },
   {
-    "name": "US Central C",
+    "name": "US Central C (NFO)",
     "url": "http://c.us-central.servers.jackz.me",
     "icon": "https://icons.duckduckgo.com/ip3/c.us-central.servers.jackz.me.ico",
-    "slug": "us-central-c",
+    "slug": "us-central-c-nfo",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 218,
-    "timeDay": 138,
-    "timeWeek": 258,
-    "timeMonth": 222,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2024-08-09": 64,
-      "2024-07-24": 22,
-      "2024-06-19": 37,
-      "2024-02-29": 23,
-      "2023-12-14": 34
-    }
+    "uptimeYear": "100.00%",
+    "time": 130,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "US Central - MO (Nocix)",
+    "url": "http://mo.us-central.servers.jackz.me",
+    "icon": "https://icons.duckduckgo.com/ip3/mo.us-central.servers.jackz.me.ico",
+    "slug": "us-central-mo-nocix",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {}
   }
 ]
