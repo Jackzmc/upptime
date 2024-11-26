@@ -52,9 +52,9 @@
     "url": "http://mo.us-central.servers.jackz.me",
     "icon": "https://icons.duckduckgo.com/ip3/mo.us-central.servers.jackz.me.ico",
     "slug": "us-central-mo-nocix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -63,6 +63,8 @@
     "timeWeek": 232,
     "timeMonth": 232,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 0
+    }
   }
 ]
