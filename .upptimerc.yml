@@ -3,13 +3,13 @@ owner: jackzmc # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: US Central A (HS1B)
-    url: http://a.us-central.servers.jackz.me
-  - name: US Central C (NFO)
+  - name: US Central - NE (HS1B)
+    url: http://hs1b.servers.jackz.me
+  - name: US Central - TX (NFO) [depr.]
     url: http://c.us-central.servers.jackz.me
     maxResponseTime: 45000
-  - name: US Central - MO (NOCIX)
-    url: http://mo.us-central.servers.jackz.me
+  - name: US Central - MO (NOCIX1)
+    url: http://nocix1a.servers.jackz.me
   - name: US - East (ORACLE1)
     url: https://oracle1.jackz.me
 
