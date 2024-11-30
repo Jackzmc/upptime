@@ -58,19 +58,19 @@
     "url": "https://oracle1.jackz.me",
     "icon": "https://icons.duckduckgo.com/ip3/oracle1.jackz.me.ico",
     "slug": "us-east-oracle-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 266,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "status": "up",
+    "uptime": "98.34%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 237,
+    "timeDay": 223,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2024-11-30": 0
+      "2024-11-30": 47
     }
   }
 ]
