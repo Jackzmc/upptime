@@ -40,9 +40,9 @@
     "url": "http://nocix1a.servers.jackz.me",
     "icon": "https://icons.duckduckgo.com/ip3/nocix1a.servers.jackz.me.ico",
     "slug": "us-central-mo-nocix-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 250,
     "timeMonth": 225,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   },
   {
     "name": "US - East (ORACLE1)",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/oracle1.jackz.me.ico",
     "slug": "us-east-oracle-1",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 221,
     "timeDay": 343,
     "timeWeek": 212,
