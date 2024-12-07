@@ -40,7 +40,7 @@
     "url": "http://nocix1a.servers.jackz.me",
     "icon": "https://icons.duckduckgo.com/ip3/nocix1a.servers.jackz.me.ico",
     "slug": "us-central-mo-nocix-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "97.50%",
     "uptimeWeek": "99.64%",
@@ -52,6 +52,7 @@
     "timeMonth": 233,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2024-12-07": 0,
       "2024-12-06": 36
     }
   },
