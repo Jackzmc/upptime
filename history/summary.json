@@ -62,18 +62,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/oracle1.servers.jackz.me.ico",
     "slug": "us-east-oracle-1",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 215,
     "timeDay": 158,
     "timeWeek": 223,
     "timeMonth": 215,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-12-10": 3,
       "2024-11-30": 47
     }
   },
@@ -83,18 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ovh1.servers.jackz.me.ico",
     "slug": "us-east-ovh-1",
     "status": "up",
-    "uptime": "2.27%",
-    "uptimeDay": "2.27%",
-    "uptimeWeek": "2.27%",
-    "uptimeMonth": "2.27%",
-    "uptimeYear": "2.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 127,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2024-12-10": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
