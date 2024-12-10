@@ -10,8 +10,10 @@ sites:
     maxResponseTime: 45000
   - name: US Central - MO (NOCIX1)
     url: http://nocix1a.servers.jackz.me
-  - name: US - East (ORACLE1)
-    url: https://oracle1.jackz.me
+  - name: US East - (ORACLE1)
+    url: https://oracle1.servers.jackz.me
+  - name: US East - (OVH1)
+    url: https://ovh1.servers.jackz.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
