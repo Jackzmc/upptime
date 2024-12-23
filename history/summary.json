@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 330,
-    "timeWeek": 280,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 279,
+    "timeDay": 344,
+    "timeWeek": 284,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oracle1.servers.jackz.me.ico",
     "slug": "us-east-oracle-1",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 172,
-    "timeDay": 28,
-    "timeWeek": 133,
-    "timeMonth": 172,
-    "timeYear": 172,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 171,
+    "timeDay": 124,
+    "timeWeek": 128,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2024-11-30": 47
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 36,
-    "timeWeek": 141,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "time": 111,
+    "timeDay": 178,
+    "timeWeek": 142,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   }
 ]
