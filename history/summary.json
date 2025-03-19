@@ -4,7 +4,7 @@
     "url": "http://hs1b.servers.jackz.me",
     "icon": "https://icons.duckduckgo.com/ip3/hs1b.servers.jackz.me.ico",
     "slug": "us-central-ne-hs-1-b",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.66%",
@@ -16,6 +16,7 @@
     "timeMonth": 248,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2025-03-19": 0,
       "2025-03-17": 135
     }
   },
