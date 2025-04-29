@@ -4,19 +4,19 @@
     "url": "http://hs1b.servers.jackz.me",
     "icon": "https://icons.duckduckgo.com/ip3/hs1b.servers.jackz.me.ico",
     "slug": "us-central-ne-hs-1-b",
-    "status": "down",
-    "uptime": "85.07%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "53.15%",
+    "status": "up",
+    "uptime": "85.05%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "52.71%",
     "uptimeMonth": "53.70%",
-    "uptimeYear": "85.07%",
+    "uptimeYear": "85.05%",
     "time": 246,
-    "timeDay": 0,
-    "timeWeek": 243,
-    "timeMonth": 258,
+    "timeDay": 220,
+    "timeWeek": 238,
+    "timeMonth": 256,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-04-29": 98,
+      "2025-04-29": 142,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1396,
@@ -51,7 +51,7 @@
     "url": "http://hs1b.servers.jackz.me:81",
     "icon": "https://icons.duckduckgo.com/ip3/hs1b.servers.jackz.me.ico",
     "slug": "us-central-ne-hs-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -62,7 +62,9 @@
     "timeWeek": 213,
     "timeMonth": 213,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-29": 0
+    }
   },
   {
     "name": "US East - (ORACLE1)",
