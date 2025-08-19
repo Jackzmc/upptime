@@ -1,7 +1,7 @@
 url: http://hs.servers.jackz.me:81
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-18T23:17:43.543Z
+status: up
+code: 200
+responseTime: 169
+lastUpdated: 2025-08-19T18:52:20.116Z
 startTime: 2024-11-28T16:41:03.616Z
 generator: Upptime <https://github.com/upptime/upptime>
